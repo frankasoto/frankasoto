@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hey! I'm Frank. 👋
+As a dedicated educator, I've had the privilege of nurturing young minds and fostering a passion for learning. My journey as a teacher has instilled in me a deep appreciation for problem-solving, a skill I carry into all aspects of my life. This unique blend of teaching and problem-solving fuels my drive to create meaningful, user-centric web applications that can make a positive impact on the world.
 <!--
 **frankasoto/frankasoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
